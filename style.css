@@ -1,11 +1,13 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background-color: #D23333;
 }
 
 #logo {
 	height: 80px;
 	width: 80px;
+	color: white;
 }
 
 #container {
